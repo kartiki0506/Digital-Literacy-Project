@@ -7,7 +7,7 @@ GitHub is a platform for hosting and sharing code and projects. I have created m
 set up a profile README introducing myself, my branch, and my learning goals.
 
 🔗 GitHub Profile: https://github.com/kartiki0506
-🔗 Digital Literacy Project Repository: 
+🔗 Digital Literacy Project Repository: https://github.com/kartiki0506/kartiki0506
 
 ### 2. LinkedIn (linkedin.com)
 LinkedIn is the world's largest professional networking platform. I have filled in my 
