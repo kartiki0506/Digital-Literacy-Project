@@ -22,19 +22,6 @@ challenges over the coming years.
 
 ---
 
-## How I Plan to Use These Over 4 Years
-
-- **Year 1:** Build foundational profiles, complete beginner courses on Kaggle,
-  and document all college projects on GitHub.
-- **Year 2:** Start contributing to open source projects on GitHub and earn 
-  skill certifications on LinkedIn and Kaggle.
-- **Year 3:** Use LinkedIn actively for internship applications and networking
-  with professionals in my field.
-- **Year 4:** Maintain a strong, updated digital presence across all platforms
-  to support placements and higher education applications.
-
----
-
 ## Key Takeaway
 Setting up these profiles early in my B.Tech journey gives me a head start 
 in building a professional digital identity. These platforms are not just 
