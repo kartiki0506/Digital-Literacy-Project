@@ -37,6 +37,7 @@ Digital-Literacy-Project/
 ├── task-3-platforms/           → HackerRank & Google Form Screenshots
 ├── task-4-email-etiquette/     → Email Drafts & Social Media Checklist
 └── task-5-cybercrime/          → Case Study & Prevention Checklist
+```
 
 ---
 
