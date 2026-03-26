@@ -76,7 +76,7 @@ Online prevention checklist tailored for college students in India.
 |---|---|
 | 🐙 GitHub Profile | [kartiki0506](https://github.com/kartiki0506) |
 | 💼 LinkedIn Profile | www.linkedin.com/in/kartiki-sinha-015b2237a |
-| 📋 Google Form Quiz | (https://forms.gle/BhH8zFuvL4YRMeZYA) |
+| 📋 Google Form Quiz | https://forms.gle/BhH8zFuvL4YRMeZYA |
 | 🔒 Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 
 ---
