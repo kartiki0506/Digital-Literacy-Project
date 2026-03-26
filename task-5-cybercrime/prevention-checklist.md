@@ -48,4 +48,4 @@
 
 ---
 
-> "Think before you click. Your awareness is your best 
+> Think before you click. Your awareness is your best 
